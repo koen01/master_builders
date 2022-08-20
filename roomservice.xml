@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="FryUpDoe/android_kernel_nothing_spacewar" path="kernel/nothing/spacewar" revision="lineage-19.1" remote="github"/>
+  <project name="FryUpDoe/android_device_nothing_spacewar" path="device/nothing/spacewar" revision="lineage-19.1" remote="github"/>
+  <project name="FryUpDoe/android_vendor_nothing_spacewar" path="vendor/nothing/spacewar" revision="lineage-19.1" remote="github"/>
+</manifest>
